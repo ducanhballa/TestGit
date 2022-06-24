@@ -25,6 +25,10 @@ public class NhapSV {
             array[i]=sc.nextInt();}
         for (int i =1 ; i<= sv; i++){
             d++;
+<<<<<<< HEAD
+=======
+            adasdasdasd
+>>>>>>> 1ae2b66adf03817b83d940f34f673e20d2e503c0
         }
         }  
         
