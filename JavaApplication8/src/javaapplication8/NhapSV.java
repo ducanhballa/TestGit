@@ -25,6 +25,8 @@ public class NhapSV {
             array[i]=sc.nextInt();}
         for (int i =1 ; i<= sv; i++){
             d++;
+            //sfsdfsdfsdsdf
+            ///ducanh123
         }
         }  
         
